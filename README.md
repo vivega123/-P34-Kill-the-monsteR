@@ -1,1 +1,1 @@
-# -P34-Kill-the-monsteR
+# P34-Kill-the-monster
